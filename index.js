@@ -38,7 +38,7 @@ const sub = function()
     document.getElementById("ans").innerHTML = v1-v2
 }
 
- function clear()
+ function ce()
 {
     document.getElementById("val1").value=55;
     let v1=document.getElementById("val1").value
