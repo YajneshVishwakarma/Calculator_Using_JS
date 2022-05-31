@@ -40,7 +40,7 @@ const sub = function()
 
  function ce()
 {
-    document.getElementById("val1").value="";
-    document.getElementById("val2").value="";
+    document.getElementById("val1").innerHTML="";
+    document.getElementById("val2").innerHTML="";
     document.getElementById("ans").innerHTML=0;
 }
